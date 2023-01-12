@@ -1,0 +1,551 @@
+*{
+    margin: 0;
+}
+header{
+    
+    background-image: -webkit-linear-gradient(rgba(0,0,0, 0) 0%,rgba(0,0,0, 1) 100%), url(../images/donation6.jpg);
+    background-image:  -moz-linear-gradient(rgba(0,0,0, 0) 0%,rgba(0,0,0, 1) 100%), url(../images/donation6.jpg);
+    background-image:  -o-linear-gradient(rgba(0,0,0, 0) 0%,rgba(0,0,0, 1) 100%), url(../images/donation6.jpg);
+    background-image:  -ms-linear-gradient(rgba(0,0,0, 0) 0%,rgba(0,0,0, 1) 100%), url(../images/donation6.jpg);
+    background-image:  linear-gradient(rgba(0,0,0, 0) 0%,rgba(0,0,0, 1) 100%), url(../images/donation6.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    align-items: center;
+}
+.banner-header{
+    padding-top: 220px;
+    font-size: 96px;
+    font-weight: 900;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.banner-description{
+    padding: 50px 0px;
+    font-size: 28px;
+    color: white;
+}
+.btn{
+    margin: 0 auto;
+    height: 70px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgba(247, 68, 55, 0.952);
+    color: white;
+    font-size: 28px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 200px;
+    border: 0;
+    fill-opacity: 0.25;
+    fill: rgba(255, 17, 0, 0.952) ;
+   
+}
+/* section part 1 */
+.section1{
+    text-align: center;
+    margin: 0 auto;
+}
+.section1-head{
+    padding-top: 250px;
+    padding-bottom: 70px;
+    font-size: 96px;
+    font-weight: 900;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.section1-desc{
+    margin-bottom: 60px;
+    font-size: 28px;
+    color: gray;
+}
+.sectiond-main{
+    display: flex;
+    justify-content: center;
+}
+.sectiond-main1{
+    height: 180px;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-size: 38px;
+    font-weight: 900;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+}
+.sectiond-main2{
+    height: 180px;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    padding-top: 60px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-size: 38px;
+    font-weight: 900;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid rgba(247, 68, 55, 0.952);
+    color: rgba(247, 68, 55, 0.952);
+    background-color: rgb(255, 220, 220);
+}
+.sc-last{
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: gray;
+    padding-top: 80px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+hr{
+    color: gray;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.section-2nd{
+     margin-top: 60px;
+}
+.section2-header{
+    font-size: 66px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 30px;
+}
+.section2-description{
+    margin-bottom: 60px;
+    font-size: 28px;
+    color: gray;
+}
+.button{
+    margin-top: 40px;
+    margin-bottom: -60px;
+}
+article{
+    margin: 0 auto;
+    max-width: 1400px;
+}
+/* div 1-2-3  */
+.div1-2-3{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.div1{
+    height: 420px;
+    width: 420px;
+    background-color: rgb(202, 228, 236);
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.img1{
+    padding: 50px 30px;
+}
+h3{
+   padding:5px 30px;
+   font-size: 35px;
+}
+.para{
+   padding: 5px 30px;
+   color: gray;
+   font-size: 24px;
+}
+.div2{
+    height: 420px;
+    width: 420px;
+    background-color: rgb(236, 185, 185);
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.div3{
+    height: 420px;
+    width: 420px;
+    background-color: lightgoldenrodyellow;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+                                 /* respone done for tablet */
+                                       /* responsive done */
+/* div 4- 5 */
+.div4,.div5{
+    margin: 30px 0;
+    display: flex;
+    justify-content: space-between; 
+}
+.div4-text{
+ padding: 50px;
+
+}
+.div5-text{
+    padding: 70px;
+}
+/* .div4-5 > img{
+    padding: 0 20px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    height: 580px;
+    width: 580px;
+} */
+.img{
+     height:600px;
+     width:600px;
+     border-radius: 12px; 
+}
+.btn4-5{
+    
+        margin: 0 auto;
+        height: 70px;
+        width: 300px;
+        border-radius: 10px;
+        background-color: rgba(247, 68, 55, 0.952);
+        color: white;
+        font-size: 28px;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        margin-bottom: 200px;
+        border: 0;
+        fill-opacity: 0.25;
+        fill: rgba(252, 79, 67, 0.952) ;
+       
+    
+}
+                                  /* respone done for mobaile */
+.lst-div{
+    margin: 0 auto;
+      display: flex;
+      justify-content: 0;
+      background-color: bisque;
+      height: 340px;
+      width: 90% ;
+      align-items: center;
+      border-radius: 10px;
+
+}
+.lst-btn{
+    margin-right: 0px;
+    margin-left:20%;
+    height: 30%;
+    width:40%;
+    padding: 0;
+border-radius: 10px 0 0 10px;
+background-color: lightgray;
+color: gray;
+font-size: 28px;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+border: 0;
+      
+} 
+.lst-btn1{
+    
+    margin-right:20%;
+    text-align: center;
+    height: 30%;
+    width: 20%;
+
+        border-radius: 0 10px 10px 0;
+        background-color: rgba(247, 68, 55, 0.952);
+        color: white;
+        font-size: 28px;
+        float: left;
+        font-family: 'Open Sans', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        border: 0;
+} 
+footer{
+    background-color: rgb(16, 16, 32);
+    text-align: center;
+    height: 180px;
+    align-items: center;
+    margin-top: 100px;
+    padding-top: 60px;
+}
+footer > h2{
+    margin-bottom: 20px;
+    color: rgba(247, 68, 55, 0.952);
+    font-size: 55px;
+    font-family: 'Lobster Two', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yellowtail', cursive;
+}
+footer > h4{
+    color: white;
+    font-size: 18px;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Nunito', sans-serif;
+}
+/* hide are */
+.hide{
+    display: none;
+}
+                                 /* RESPONSIVE WEBSITE FOR MOBILE */
+@media screen and (max-width:576px) {
+    header{
+        background: none;
+    }
+    .banner-header{
+        padding-top: 20px;
+        font-size: 36px;
+        font-weight: 500;
+        color: rgb(248, 112, 1);
+    }
+    .banner-description{
+        padding:10px 50px;
+        font-size: 18px;
+        color:cadetblue;
+    }
+    .btn{
+        height: 20px;
+        width: 70px;
+        border-radius: 4px;
+        margin-bottom: 20px;
+        border: 0;
+        font-size: 10px;
+    }
+    .section1-head{
+        padding-top: 20px;
+        padding-bottom: 10px;
+        font-size: 36px;
+        font-weight: 500;
+    }
+    .section1-desc{
+        margin-bottom: 20px;
+        padding: 0 50px;
+        font-size: 18px;
+    }
+    .sectiond-main1, .sectiond-main2{
+        height: 40px;
+        width: 60px;
+        padding-top: 10px;
+        font-size: 18px;
+        font-weight: 500;
+        border-radius: 5px;
+    }
+    .sectiond-main2{
+        border: 0.5px solid rgba(247, 68, 55, 0.952);
+    }
+    .sc-last{
+        margin-bottom: 10px;
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    .button {
+        margin-top: 10px;
+        margin-bottom: -70px;
+    }
+    .section2-header{
+        font-size: 28px;
+        font-weight: 500;
+        padding-bottom: 10px;
+    }
+    .section2-description{
+        margin-bottom: 20px;
+        font-size: 16px;
+        padding: 0 5px;
+    }
+    .div1-2-3{
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .div1, .div2, .div3{
+        height:100%;
+        width: 72%;
+        border-radius: 10px;
+    }
+    .img1, h3,.para{
+        padding: 5px 3px;
+    }
+    .div1{
+        background-color: rgb(202, 228, 236);
+    }
+    .div2{
+        background-color: rgb(236, 185, 185);
+    }
+    .div3{
+        background-color: lightgoldenrodyellow;
+    }
+    h3{
+       font-size: 25px;
+    }
+    .para{
+       font-size: 14px;
+    }
+        /* jamelaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa */
+        .div4,.div5{
+            display: flex;
+            flex-direction: column-reverse;
+            align-items: center;
+            margin: 0;
+        }
+        .div4-text, .div5-text{
+         padding: 30px;
+        
+        }
+        .img{
+            width: 80%;
+            display: block;
+            margin: 0 auto;
+            border-radius: 6%;
+            height: 250px;
+        }
+        .btn4-5{
+                height: 50px;
+                width: 180px;
+                border-radius: 10px;
+                font-size: 18px;
+                margin-bottom: 0px;
+        }
+
+        /* shesher ager ekmatro jhammela d a */
+        .lst-div{
+              height: 140px;
+        
+        }
+        .lst-btn{
+            font-size: 14px;
+              
+        } 
+        .lst-btn1{
+                font-size: 14px;
+        }
+        /* sesh jhamela....................... */
+        footer{
+            height:80px;
+            margin-top:20px ;
+            padding-top: 3%;
+        }
+        footer > h2{
+            margin-bottom: 2px;
+            font-size: 25px;
+        }
+        footer > h4{
+            font-size: 10px;
+        }
+
+}
+                                   /* responsive website design for tablet */
+@media screen and (min-width:577px) and (max-width:992px) {
+    .banner-header{
+        padding-top: 70px;
+        font-size: 66px;
+        font-weight: 900;
+    }
+    .banner-description{
+        padding: 50px 100px;
+        font-size: 28px;
+    }
+    .btn{
+        margin-bottom: 80px;
+    }
+    .section1-head{
+        padding-top: 30px;
+        padding-bottom: 20px;
+        font-size: 66px;
+    }
+    .section1-desc{
+        margin-bottom: 20px;
+        font-size: 28px;
+        padding: 0 100px;
+    }
+    .sectiond-main{
+        display: flex;
+        gap: 20px;
+    }
+    .sectiond-main1, .sectiond-main2{
+        height: 70px;
+        width: 100px;
+        padding-top: 15px;
+        font-size: 28px;
+        font-weight: 600;
+    }
+    .sc-last{
+        margin-bottom: 30px;
+        padding-top: 30px;
+    }
+    .section-2nd{
+        margin-top: 10px;
+   }
+   .section2-header{
+       font-size: 56px;
+       padding-bottom: 20px;
+   }
+   .section2-description{
+       margin-bottom: 20px;
+   }
+   .div1-2-3{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
+.div1, .div2, .div3{
+    height:350px;
+    width: 32%;
+    border-radius: 10px;
+}
+.img1, h3,.para{
+    padding: 5px 3px;
+}
+.div1{
+    background-color: rgb(202, 228, 236);
+}
+.div2{
+    background-color: rgb(236, 185, 185);
+}
+.div3{
+    background-color: lightgoldenrodyellow;
+}
+.div4,.div5{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    margin: 0;
+}
+.div4-text, .div5-text{
+ padding: 5px;
+
+}
+/* .div4-5 > img{
+    padding: 0 20px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    height: 580px;
+    width: 580px;
+} */
+.img{
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8%;
+}
+.btn4-5{
+    margin-bottom: 20px;
+}
+/* shesher ager jhamela da re............................. */
+.lst-div{
+      height: 240px;
+      width: 90% ;
+}
+.lst-btn{
+    height: 70px;
+border: 0;
+      
+} 
+.lst-btn1{
+    text-align: center;
+        float: left;
+} 
+}
+
+
